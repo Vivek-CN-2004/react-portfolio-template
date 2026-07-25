@@ -32,11 +32,11 @@ A premium, modern, dark-themed personal portfolio template built with **React 18
 
 | Hero & Intro | Projects & 3D Tilt |
 | :---: | :---: |
-| ![Hero Section](https://raw.githubusercontent.com/placeholder/hero-screenshot.png) | ![Projects Section](https://raw.githubusercontent.com/placeholder/projects-screenshot.png) |
+| ![Hero Section](./public/screenshots/hero.png) | ![Projects Section](./public/screenshots/projects.png) |
 
 | Skills & Experience | Contact Form & Toast |
 | :---: | :---: |
-| ![Skills & Experience](https://raw.githubusercontent.com/placeholder/skills-screenshot.png) | ![Contact Form](https://raw.githubusercontent.com/placeholder/contact-screenshot.png) |
+| ![Skills Section](./public/screenshots/skills.png) | ![Contact Form](./public/screenshots/contact.png) |
 
 ---
 
